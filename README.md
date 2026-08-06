@@ -1,4 +1,4 @@
-# Statistical-Learning-Project
+# Taipei Real Estate Valuation
 ## Abstract
 This report analyzes residential property values in Taipei, Taiwan, using the
 *Real Estate Valuation dataset* from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set).
