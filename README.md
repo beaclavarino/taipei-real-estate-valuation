@@ -15,7 +15,6 @@ This report analyzes residential property values in Taipei, Taiwan, using the [R
   * **Random Forest** achieved the best overall performance ($R^2 = 0.703$, $\text{RMSE} = 0.238$), confirming the prominence of non-linear spatial dependencies.
 
 ## Repository Structure
-* `report.pdf`: Complete academic report written in LaTeX detailing the data analysis, methodology, and results.
-* `src/`: R script (`SLcode.R`) containing end-to-end routines for data cleaning, PCA, clustering, model training, evaluation, and visualization.
-* `data/`: The UCI Real Estate Valuation dataset (`Real estate valuation data set.xlsx`).
+* `SLreport.pdf`: Complete academic report written in LaTeX detailing the data analysis, methodology, and results.
+* `SLcode.R`: R scriptcontaining end-to-end routines for data cleaning, PCA, clustering, model training, evaluation, and visualization.
 * `figures/`: High-resolution figures and diagnostic plots included in the report.
